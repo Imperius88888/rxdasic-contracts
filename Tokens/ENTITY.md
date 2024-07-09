@@ -6,8 +6,8 @@
 - Description: It's alive!
 
 ## Token info
-- Website: 
-- X: 
+- Website: entityclub.com
+- X: x.com/EntityRXD
 - Discord: 
 
 ## Tokenomics
